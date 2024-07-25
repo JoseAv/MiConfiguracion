@@ -1,0 +1,87 @@
+{
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "terminal.integrated.env.windows": {},
+    "window.autoDetectHighContrast": false,
+    "editor.fontSize": 18,
+    "editor.cursorBlinking": "expand",
+    "editor.linkedEditing": true,
+    "editor.guides.bracketPairs": true,
+    "breadcrumbs.enabled": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "console-ninja.featureSet": "Community",
+    "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontVariations": false,
+    "editor.experimentalInlineEdit.fontFamily": "'Cascadia Code PL SemiLight'",
+    "editor.inlayHints.fontFamily": "'Cascadia Code PL SemiLight'",
+    "workbench.iconTheme": "material-icon-theme",
+    "git.openRepositoryInParentFolders": "never",
+    "editor.glyphMargin": false,
+    "workbench.sideBar.location": "right",
+    "files.autoSave": "afterDelay",
+    "eslint.codeActionsOnSave.rules": null,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": null
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "workbench.settings.applyToAllProfiles": [
+        "editor.formatOnSave",
+        "editor.defaultFormatter"
+    ],
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "eslint.format.enable": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "always"
+    },
+    "eslint.validate": [
+        "typescript"
+    ],
+    "workbench.preferredLightColorTheme": "Default Dark Modern",
+    "workbench.preferredHighContrastLightColorTheme": "One Dark Pro Darker",
+    "workbench.preferredHighContrastColorTheme": "One Dark Pro Darker",
+    "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
+    "oneDarkPro.bold": true,
+    "oneDarkPro.vivid": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "standard.autoFixOnSave": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "files.associations": {
+        "*.tsx": "typescriptreact"
+    },
+    "explorer.confirmDelete": false,
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "dart.debugExternalPackageLibraries": true,
+    "dart.debugSdkLibraries": false,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "json.schemas": [
+    
+        
+    ]
+}
